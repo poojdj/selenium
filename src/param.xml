@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="s1">
+<parameter name="un" value="Pooja"></parameter>
+<parameter name="pwd" value="poo"></parameter>
+<test name="t1">
+<classes>
+<class name="testng.Echotracklogin2"></class>
+
+
+
+
+
+</classes>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</suite>
